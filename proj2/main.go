@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/yngvark/lib"
+	"github.com/yngvark/go3/lib"
 )
 
 func main() {

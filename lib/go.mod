@@ -1,3 +1,3 @@
-module github.com/yngvark/lib
+module github.com/yngvark/go3/lib
 
 go 1.16
